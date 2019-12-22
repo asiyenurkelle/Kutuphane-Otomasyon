@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53F7F442-3E62-48C5-8364-187A7BF38D62}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KütüphaneOtomasyon</RootNamespace>
+    <AssemblyName>KütüphaneOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGuncelle.Designer.cs">
+      <DependentUpon>FrmGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapEkle.Designer.cs">
+      <DependentUpon>FrmKitapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapKatalogu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapKatalogu.Designer.cs">
+      <DependentUpon>FrmKitapKatalogu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapAra.Designer.cs">
+      <DependentUpon>FrmKitapAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapDetay.Designer.cs">
+      <DependentUpon>FrmKitapDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitaplar.Designer.cs">
+      <DependentUpon>FrmKitaplar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKullaniciGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKullaniciGirisi.Designer.cs">
+      <DependentUpon>FrmKullaniciGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmYayinevleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYayinevleri.Designer.cs">
+      <DependentUpon>FrmYayinevleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmYazarArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYazarArama.Designer.cs">
+      <DependentUpon>FrmYazarArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmYazarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYazarlar.Designer.cs">
+      <DependentUpon>FrmYazarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmGuncelle.resx">
+      <DependentUpon>FrmGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitapEkle.resx">
+      <DependentUpon>FrmKitapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitapKatalogu.resx">
+      <DependentUpon>FrmKitapKatalogu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitapAra.resx">
+      <DependentUpon>FrmKitapAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitapDetay.resx">
+      <DependentUpon>FrmKitapDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitaplar.resx">
+      <DependentUpon>FrmKitaplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKullaniciGirisi.resx">
+      <DependentUpon>FrmKullaniciGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYayinevleri.resx">
+      <DependentUpon>FrmYayinevleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYazarArama.resx">
+      <DependentUpon>FrmYazarArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYazarlar.resx">
+      <DependentUpon>FrmYazarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\students-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library_773689.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kkkkkkkk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\positive-kunder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-35248_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitapara.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comic-book-cartoon-cartoon-books.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-digital-library-bookmobile-beautiful-illustration-library-5ae198ab44c248.8583043115247341232816.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-library-icon-3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yaz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-businessperson-diagram-illustration-vector-white-collar-man-5aa5387ae5e030.3644540415207773389416.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-businessperson-diagram-illustration-vector-white-collar-man-5aa5387ae5e030.36445404152077733894161.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21738632-house-and-apartment-building-silhouette-icon-set.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apartman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\250-2500829_left-side-orange-color-arrow-back-icon-orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\52-527760_computer-back-icon-left-right-arrow-cartoon-left-arrow-orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\250-2500829_left-side-orange-color-arrow-back-icon-orange1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\248627.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ğ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-home-icon-transparent-png-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pict--back-cloud-round-icons-vector-stencils-library.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

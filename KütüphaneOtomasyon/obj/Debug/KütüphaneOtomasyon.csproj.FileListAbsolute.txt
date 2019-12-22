@@ -1,0 +1,55 @@
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitaplar.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapDetay.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapAra.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapEkle.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapKatalogu.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYayinevleri.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYazarlar.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYazarArama.resources
+C:\Users\asus\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKullaniciGirisi.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapEkle.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapKatalogu.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapAra.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapDetay.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitaplar.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKullaniciGirisi.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYayinevleri.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYazarArama.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYazarlar.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapEkle.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapKatalogu.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapAra.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitapDetay.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKitaplar.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmKullaniciGirisi.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYayinevleri.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYazarArama.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmYazarlar.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PROJELER\Veritabanı Proje\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FrmGuncelle.resources
